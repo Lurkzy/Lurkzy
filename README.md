@@ -10,6 +10,7 @@ game development. All I want is something to show for my life, something-- magic
 * [MinHook v1.3.3](https://github.com/TsudaKageyu/minhook)
     * [Direct Download (Windows)](https://github.com/TsudaKageyu/minhook/releases/download/v1.3.3/MinHook_133_bin.zip)
 * [Microsoft Detours v4.0.1](https://github.com/microsoft/Detours)
+* [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com)
     
 ![](https://i.imgur.com/4M7IWwP.gif)
 ### buy me an iced coffee
