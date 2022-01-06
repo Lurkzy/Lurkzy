@@ -1,4 +1,4 @@
-👋 hey, I'm Drew
+👋 hey, I'm Andrew
 
 ## About
 I develop tools and release reverse engineered work here for my own educational purposes. I will be attending university for game development soon. I am 22 years old.
