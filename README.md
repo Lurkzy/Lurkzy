@@ -1,7 +1,7 @@
 👋 hey, I'm Andrew
 
 ## About
-I develop tools and release reverse engineered work here for my own educational purposes. I am 22 years old.
+I develop tools and release reverse engineered work here for my own educational purposes.
 
 ### Tools I use
 * [Microsoft Detours v4.0.1](https://github.com/microsoft/Detours)
