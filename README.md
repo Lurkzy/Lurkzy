@@ -10,7 +10,8 @@ I develop tools and release reverse engineered work here for my own educational 
     
 ![](https://i.imgur.com/4M7IWwP.gif)
 ### Website
-* [Lurkzy.dev](https://www.lurkzy.dev/)
+[Lurkzy.dev](https://www.lurkzy.dev/)
+
 ![](https://i.imgur.com/4M7IWwP.gif)
 ### buy me an iced coffee
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/drewmarkum)
