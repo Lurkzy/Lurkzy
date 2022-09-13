@@ -9,5 +9,4 @@ I develop tools and release reverse engineered work here for my own educational 
 * [Microsoft Detours v4.0.1](https://github.com/microsoft/Detours)
 * [Minhook v1.3.3](https://github.com/TsudaKageyu/minhook/releases/tag/v1.3.3)
 * [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com)
-* 
 ![](https://i.imgur.com/4M7IWwP.gif)
