@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lurkzy" target="blank"><img src="https://img.shields.io/twitter/follow/lurkzy?logo=twitter&style=for-the-badge" alt="lurkzy" /></a> </p>
 
-- 🔭 I’m currently working on **reimagined, a BO1 SP Overhaul Mod**
+- 🔭 I’m currently working on **a project called Phantom**
 
 - ⚡ Fun fact **I have an orange cat named Candy Corn**
 
